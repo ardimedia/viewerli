@@ -6,4 +6,5 @@ Hier könnt ihr unter [https://github.com/ardimedia/viewerli/issues] eure Proble
 Unter [https://github.com/ardimedia/viewerli/wiki] könnt ihr weitere Details zu VIEWER.LI erfahren.
 
 Wir freuen uns auf euren Feedback!
+
 VIEWER.LI TEAM
